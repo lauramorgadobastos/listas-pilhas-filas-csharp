@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Laboratório de Estruturas de Dados Lineares (C# / .NET 8)
+#  Listas, Pilhas e Filas em C# (Estática e Dinâmica)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
